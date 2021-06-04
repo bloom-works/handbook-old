@@ -526,7 +526,6 @@ Base salary: $150k
 - May work with exec team on high level technical guidance.
 - Proactively identifies and remedies communication gaps and issues.
 
-
 ##### Technical
 - Defines and models Bloom engineering brand, patterns, and practices.
 - Researches, creates proofs of concept and introduces new technologies to the team
@@ -538,6 +537,3 @@ Base salary: $150k
 - Expert on company's platform, architecture, and workflow.
 - Has obvious impact on company's technical trajectory.
 - Owns capacity and growth of technical systems across multiple domains, defining key metrics.
-
-
-

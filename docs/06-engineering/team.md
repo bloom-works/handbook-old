@@ -350,6 +350,8 @@ We appreciate that engineers have varying aptitudes and interests along the prod
 
 ### Levels and Compensation
 
+Outlined are the major levels. There are also three intermediary sub-levels between roles, with incremental expectation and compensation increases. 
+
 #### L1 (junior engineer)
 Base salary: $90k
 

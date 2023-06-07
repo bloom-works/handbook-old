@@ -1,3 +1,5 @@
+⚠️DEPRECATED: This is the old employee handbook and will be formally retired in 2023. The new handbook can be found at [https://github.com/bloom-works/handbook](https://github.com/bloom-works/handbook-old/).
+
 # BLOOM EMPLOYEE HANDBOOK
 
 We've prepared this handbook to specify what Bloomers can expect from Bloom Works and what we expect from Bloomers. It describes the Bloom philosophy, working methods and processes, employment practices, policies, and benefits.

@@ -29,7 +29,7 @@ The office is also closed from Christmas Day (Dec 25) through New Years (Jan 1 o
 
 ## Requesting time off
 
-**Whenever possible, please give your manager and project lead at least 2 weeks advance notice of planned time off. This helps us keep projects running smoothly.**
+**Whenever possible, please give your manager and project lead at least 2 weeks advance notice of planned time off. This helps us keep projects running smoothly. If you are considering taking more than 2 weeks off, you need advance approval from your manager and Engagement Manager.**
 
 When you take time off:
 
